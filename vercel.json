@@ -1,3 +1,3 @@
 {
-  "rewrites": [{ "source": "/(.*)", "destination": "/world-cup-2026-bracket-pool_4.html" }]
+  "rewrites": [{ "source": "/(.*)", "destination": "/mmd-admin-dashboard.html" }]
 }
